@@ -34,7 +34,7 @@ const datasets = [
       "Emails (generic + role), tech stack, socials",
       "CSV + monthly refresh, sample included"
     ],
-    href: "#/datasets/nuros-scrapekit-eu-shopify-home-garden-sample.csv"
+    href: "/datasets/nuros-scrapekit-eu-shopify-home-garden-sample.csv"
   },
   {
     title: "Amazon EU Sellers — Home Appliances (1,500+)",
@@ -44,7 +44,7 @@ const datasets = [
       "Contact email (when public), website, socials",
       "CSV + monthly refresh, sample included"
     ],
-    href: "#/datasets/nuros-scrapekit-amazon-eu-home-appliances-sample.csv"
+    href: "/datasets/nuros-scrapekit-amazon-eu-home-appliances-sample.csv"
   }
 ];
 
